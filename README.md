@@ -16,6 +16,8 @@ Python 3
  - Enter the url of the site  format
  - Wait for it to finish
  - Search for relevant coupon codes in *filename_textonly.json*
+ OR
+ - [BETA] Run Jsonparse.java to get all coupon codes as output
 
 ## Article
 [Article](https://medium.com/mitchtalmadge/how-companies-like-hush-blankets-are-taking-advantage-of-your-emotions-for-profit-469b45a4156c)  by Mitch Talmadge
