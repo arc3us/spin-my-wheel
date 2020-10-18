@@ -4,12 +4,6 @@ import org.json.JSONObject;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
-/*Code not tested because merese import nahi ho rha tha
-
-but technically ye sahi hona chahiye if you can download the required libraries correctly
-
-as I have tried a similar approach on Android Studio where these libs were pre-installed*/
-
 class jsonparse
 {
   public static void main(String args[])
