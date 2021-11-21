@@ -25,7 +25,7 @@ profile.set_proxy(selenium_proxy)#to be fixed, deprecation warning
 driver = webdriver.Firefox(firefox_profile=profile, options=options)
 
 
-print("enter site to yeehaw")
+print("enter site to extract coupons")
 link = input() #url of the website
 tmp = link.split(".")
 title = tmp[1] #separates title
